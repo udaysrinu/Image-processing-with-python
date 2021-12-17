@@ -1,8 +1,3 @@
-Gidijala Uday srinu
-B.Tech Computer science and engineering 
-Final year @ NIT allahabad
-7388468259
-
 Google Collab link - 
 https://colab.research.google.com/drive/1jXcBV7skU3bkqv48xM_RxoESPdfyWo46?usp=sharing
 
